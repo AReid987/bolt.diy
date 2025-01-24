@@ -1,7 +1,7 @@
 interface Env {
-  DEFAULT_NUM_CTX:Settings;
-  ANTHROPIC_API_KEY: string;
-  OPENAI_API_KEY: string;
+  DEFAULT_NUM_CTX: Settings;
+  // ANTHROPIC_API_KEY: string;
+  // OPENAI_API_KEY: string;
   GROQ_API_KEY: string;
   HuggingFace_API_KEY: string;
   OPEN_ROUTER_API_KEY: string;
@@ -16,5 +16,5 @@ interface Env {
   MISTRAL_API_KEY: string;
   XAI_API_KEY: string;
   PERPLEXITY_API_KEY: string;
-  AWS_BEDROCK_CONFIG: string;
+  // AWS_BEDROCK_CONFIG: string;
 }

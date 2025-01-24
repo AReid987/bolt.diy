@@ -91,8 +91,8 @@ Make sure to add your API keys for each provider you want to use, for example:
 
 ```
 GROQ_API_KEY=XXX
-OPENAI_API_KEY=XXX
-ANTHROPIC_API_KEY=XXX
+<!-- OPENAI_API_KEY=XXX -->
+<!-- ANTHROPIC_API_KEY=XXX -->
 ```
 
 Once you've set your keys, you can proceed with running the app. You will set these keys up during the initial setup, and you can revisit and update them later after the app is running.

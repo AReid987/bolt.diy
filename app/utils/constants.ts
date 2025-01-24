@@ -59,6 +59,29 @@ export { initializeModelList, providerBaseUrlEnvKeys, MODEL_LIST };
 
 export const STARTER_TEMPLATES: Template[] = [
   {
+    name: 'bolt-nextjs-containers',
+    label: 'Next.js with containers',
+    description: 'Next.js starter template for building containerized web applications',
+    githubRepo: 'TODO: Make this a real repo',
+    tags: [
+      'nextjs',
+      'typescript',
+      'tailwindcss',
+      'famer motion',
+      'PNPM',
+      'Python',
+      'uv',
+      'FastAPI',
+      'NestJS',
+      'GraphQL',
+      'Prisma',
+      'Docker',
+      'turborepo',
+      '',
+    ],
+    icon: 'i-bolt:nextjs',
+  },
+  {
     name: 'bolt-astro-basic',
     label: 'Astro Basic',
     description: 'Lightweight Astro starter template for building fast static websites',
